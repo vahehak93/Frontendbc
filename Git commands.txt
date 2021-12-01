@@ -1,4 +1,0 @@
-1. creat new file 
-echo "# repo name" >> file name
-
-2. 
